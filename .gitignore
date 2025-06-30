@@ -16,7 +16,6 @@ build/
 bin/
 !**/src/main/**/bin/
 !**/src/test/**/bin/
-application-oauth.properties
 
 ### IntelliJ IDEA ###
 .idea
@@ -26,6 +25,7 @@ application-oauth.properties
 out/
 !**/src/main/**/out/
 !**/src/test/**/out/
+application-oauth.properties
 
 ### NetBeans ###
 /nbproject/private/
